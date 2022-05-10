@@ -1,13 +1,13 @@
 # shoping-cart Laravel / VueJs
 
 
-## 1. Install Composer Dependencies
+### 1. Install Composer Dependencies
 
 ```sh
 composer install
 ```
 
-## 2. Intall NPM Dependencies
+### 2. Intall NPM Dependencies
 
 ```sh
 npm install
